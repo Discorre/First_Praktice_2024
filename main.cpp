@@ -9,7 +9,7 @@ using json = nlohmann::json;
 int main() {
     system("chcp 65001");
     // Чтение конфигурации из файла schema.json
-    std::ifstream configFile("C:\\Users\\Dom\\CLionProjects\\untitled1\\schema.json");
+    std::ifstream configFile("C:\\Users\\Dom\\CLionProjects\\First_Praktice_2024\\schema.json");
     json config;
     configFile >> config;
 
