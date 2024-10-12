@@ -1002,7 +1002,7 @@ rule CXX_EXECUTABLE_LINKER__json_unit_Debug
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = "D:\Toolbox Library\CLion\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SC:\Users\Dom\CLionProjects\untitled1 -BC:\Users\Dom\CLionProjects\untitled1\cmake-build-debug
+  command = "D:\Toolbox Library\CLion\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SC:\Users\Dom\CLionProjects\First_Praktice_2024 -BC:\Users\Dom\CLionProjects\First_Praktice_2024\cmake-build-debug
   description = Re-running CMake...
   generator = 1
 

@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/Dom/CLionProjects/untitled1/cmake-build-debug/_deps/nlohmann_json-src/test
+# Install script for directory: C:/Users/Dom/CLionProjects/First_Praktice_2024/cmake-build-debug/_deps/nlohmann_json-src/test
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/untitled1")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/First_Praktice_2024")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -39,11 +39,11 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/Dom/CLionProjects/untitled1/cmake-build-debug/_deps/nlohmann_json-build/test/cmake_import/cmake_install.cmake")
-  include("C:/Users/Dom/CLionProjects/untitled1/cmake-build-debug/_deps/nlohmann_json-build/test/cmake_import_minver/cmake_install.cmake")
-  include("C:/Users/Dom/CLionProjects/untitled1/cmake-build-debug/_deps/nlohmann_json-build/test/cmake_add_subdirectory/cmake_install.cmake")
-  include("C:/Users/Dom/CLionProjects/untitled1/cmake-build-debug/_deps/nlohmann_json-build/test/cmake_fetch_content/cmake_install.cmake")
-  include("C:/Users/Dom/CLionProjects/untitled1/cmake-build-debug/_deps/nlohmann_json-build/test/cmake_target_include_directories/cmake_install.cmake")
+  include("C:/Users/Dom/CLionProjects/First_Praktice_2024/cmake-build-debug/_deps/nlohmann_json-build/test/cmake_import/cmake_install.cmake")
+  include("C:/Users/Dom/CLionProjects/First_Praktice_2024/cmake-build-debug/_deps/nlohmann_json-build/test/cmake_import_minver/cmake_install.cmake")
+  include("C:/Users/Dom/CLionProjects/First_Praktice_2024/cmake-build-debug/_deps/nlohmann_json-build/test/cmake_add_subdirectory/cmake_install.cmake")
+  include("C:/Users/Dom/CLionProjects/First_Praktice_2024/cmake-build-debug/_deps/nlohmann_json-build/test/cmake_fetch_content/cmake_install.cmake")
+  include("C:/Users/Dom/CLionProjects/First_Praktice_2024/cmake-build-debug/_deps/nlohmann_json-build/test/cmake_target_include_directories/cmake_install.cmake")
 
 endif()
 

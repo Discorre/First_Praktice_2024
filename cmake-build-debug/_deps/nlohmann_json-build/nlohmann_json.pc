@@ -1,4 +1,4 @@
 Name: nlohmann_json
 Description: JSON for Modern C++
 Version: 3.9.1
-Cflags: -IC:/Program Files (x86)/untitled1/include
+Cflags: -IC:/Program Files (x86)/First_Praktice_2024/include

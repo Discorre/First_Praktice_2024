@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/Dom/CLionProjects/untitled1/cmake-build-debug/_deps/nlohmann_json-src/test/cmake_add_subdirectory
+# Install script for directory: C:/Users/Dom/CLionProjects/First_Praktice_2024/cmake-build-debug/_deps/nlohmann_json-src/test/cmake_add_subdirectory
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/untitled1")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/First_Praktice_2024")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

@@ -4,8 +4,8 @@
 
 
 # Configuration directories and files
-SourceDirectory: C:/Users/Dom/CLionProjects/untitled1/cmake-build-debug/_deps/nlohmann_json-src
-BuildDirectory: C:/Users/Dom/CLionProjects/untitled1/cmake-build-debug/_deps/nlohmann_json-build
+SourceDirectory: C:/Users/Dom/CLionProjects/First_Praktice_2024/cmake-build-debug/_deps/nlohmann_json-src
+BuildDirectory: C:/Users/Dom/CLionProjects/First_Praktice_2024/cmake-build-debug/_deps/nlohmann_json-build
 
 # Where to place the cost data store
 CostDataFile: 
@@ -27,7 +27,7 @@ SubmitInactivityTimeout:
 NightlyStartTime: 00:00:00 EDT
 
 # Commands for the build/test/submit cycle
-ConfigureCommand: "D:/Toolbox Library/CLion/bin/cmake/win/x64/bin/cmake.exe" "C:/Users/Dom/CLionProjects/untitled1/cmake-build-debug/_deps/nlohmann_json-src"
+ConfigureCommand: "D:/Toolbox Library/CLion/bin/cmake/win/x64/bin/cmake.exe" "C:/Users/Dom/CLionProjects/First_Praktice_2024/cmake-build-debug/_deps/nlohmann_json-src"
 MakeCommand: "D:\Toolbox Library\CLion\bin\cmake\win\x64\bin\cmake.exe" --build . --config "${CTEST_CONFIGURATION_TYPE}"
 DefaultCTestConfigurationType: Release
 

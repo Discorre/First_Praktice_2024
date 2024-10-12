@@ -52,7 +52,7 @@ add_library(nlohmann_json::nlohmann_json INTERFACE IMPORTED)
 set_target_properties(nlohmann_json::nlohmann_json PROPERTIES
   INTERFACE_COMPILE_DEFINITIONS "JSON_USE_IMPLICIT_CONVERSIONS=\$<BOOL:ON>"
   INTERFACE_COMPILE_FEATURES "cxx_std_11"
-  INTERFACE_INCLUDE_DIRECTORIES "C:/Users/Dom/CLionProjects/untitled1/cmake-build-debug/_deps/nlohmann_json-src/single_include/"
+  INTERFACE_INCLUDE_DIRECTORIES "C:/Users/Dom/CLionProjects/First_Praktice_2024/cmake-build-debug/_deps/nlohmann_json-src/single_include/"
 )
 
 # This file does not depend on other imported targets which have
