@@ -1,0 +1,22 @@
+# ninja log v6
+11	3344	7503627031416869	CMakeFiles/untitled1.dir/main.cpp.obj	f223ddcf75fed505
+22	1641	7503626706851385	CMakeFiles/untitled1.dir/Table.cpp.obj	df83bb4302af15b1
+2	1739	7503572194396529	build.ninja	72cadaaf41b348a9
+3345	4457	7503627064759827	untitled1.exe	87cb75c20485f83e
+17	3357	7503624650199226	CMakeFiles/untitled1.dir/Database.cpp.obj	f5b0ddc535173251
+18	2095	7503624821221527	CMakeFiles/untitled1.dir/QueryProcessor.cpp.obj	b00f97bc01c332a9
+11	3279	7503627916994032	CMakeFiles/untitled1.dir/main.cpp.obj	f223ddcf75fed505
+3279	4406	7503627949684606	untitled1.exe	87cb75c20485f83e
+10	3225	7503628503253563	CMakeFiles/untitled1.dir/main.cpp.obj	f223ddcf75fed505
+3229	4321	7503628535444513	untitled1.exe	87cb75c20485f83e
+29	2095	7503629187158052	CMakeFiles/untitled1.dir/Table.cpp.obj	df83bb4302af15b1
+21	3593	7503629187080856	CMakeFiles/untitled1.dir/Database.cpp.obj	f5b0ddc535173251
+12	3869	7503629186991096	CMakeFiles/untitled1.dir/main.cpp.obj	f223ddcf75fed505
+2095	4346	7503629207825450	CMakeFiles/untitled1.dir/QueryProcessor.cpp.obj	b00f97bc01c332a9
+4346	5423	7503629230331710	untitled1.exe	87cb75c20485f83e
+12	3309	7503629772335355	CMakeFiles/untitled1.dir/main.cpp.obj	f223ddcf75fed505
+3310	4394	7503629805300498	untitled1.exe	87cb75c20485f83e
+11	3269	7503630065784812	CMakeFiles/untitled1.dir/main.cpp.obj	f223ddcf75fed505
+3270	4413	7503630098377838	untitled1.exe	87cb75c20485f83e
+12	3860	7504555487722071	CMakeFiles/untitled1.dir/main.cpp.obj	f223ddcf75fed505
+3861	5051	7504555526195121	untitled1.exe	87cb75c20485f83e

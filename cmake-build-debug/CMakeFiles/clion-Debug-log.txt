@@ -1,0 +1,15 @@
+"D:\Toolbox Library\CLion\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Toolbox Library/CLion/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\Dom\CLionProjects\untitled1 -B C:\Users\Dom\CLionProjects\untitled1\cmake-build-debug
+CMake Deprecation Warning at cmake-build-debug/_deps/nlohmann_json-src/CMakeLists.txt:1 (cmake_minimum_required):
+  Compatibility with CMake < 3.5 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+-- Using the single-header code from C:/Users/Dom/CLionProjects/untitled1/cmake-build-debug/_deps/nlohmann_json-src/single_include/
+-- Operating system: Windows-10.0.19045
+-- Compiler: g++.exe (GCC) 13.1.0; Copyright (C) 2023 Free Software Foundation, Inc.; This is free software; see the source for copying conditions.  There is NO; warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+-- Configuring done (1.3s)
+-- Generating done (0.1s)
+-- Build files have been written to: C:/Users/Dom/CLionProjects/untitled1/cmake-build-debug
